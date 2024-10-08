@@ -11,3 +11,13 @@
 
 ## if its clicking on other things then turn off grayscale
 ## or turn up confidence
+
+
+# factorial calulator
+
+## this thing is useless.
+
+## just use the factorial function.
+
+
+## it can do negatives i guess
